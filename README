@@ -1,0 +1,29 @@
+This is a sample project to show you how to use the KissMetrics javascript library and a simple
+metrics delegator.  
+
+The meat of the project is under Resources/metrics/kissmetrics.js
+
+A sample of using the lib is in the applications.
+
+Tests are included in and show additional ways to use the library.  NOTE: I know there are a bunch
+of JS testing framework but just wanted something simple.  If you make changes to the lib you should
+be able to run the test to ensure nothing broke.
+
+//  Kissmetrics Javascript for Appcelerator (kissmetric.js) 1.0
+//  (c) 2012 Acktie, LLC (www.acktie.com)
+//  Kissmetrics Javascript for Appcelerator is freely distributable under the MIT license.
+//  Inspired by Jefaff's Java implemenation
+//  https://github.com/acktie/Kissmetrics-JS-for-Appcelerator
+//  Kissmetrics API Suppert - http://support.kissmetrics.com/apis/specifications
+
+Requires Titanium Mobile SDK 1.8.0+
+----------------------------------
+Stuff our legal folk make us say:
+
+Appcelerator, Appcelerator Titanium and associated marks and logos are 
+trademarks of Appcelerator, Inc. 
+
+Titanium is Copyright (c) 2009-2012 by Appcelerator, Inc. All Rights Reserved.
+
+Titanium is licensed under the Apache Public License (Version 2). Please
+see the LICENSE file for the full license.
